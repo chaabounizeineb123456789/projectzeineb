@@ -1,0 +1,18 @@
+body {background-color: magenta ;}
+.trainings,.skills{padding-left: 30% ;
+        }
+
+.zeineb2,.zeineb,.zeineb3{
+
+}
+#cv,#cv2,#cv3{padding-left: 30% ;
+        }
+
+.core{
+	position: absolute;
+	padding-left: 5% ;
+	display: inline-block ;
+	border: 2px solid black;
+}
+.non{display: inline-block ;
+     border: 2px solid black;}
